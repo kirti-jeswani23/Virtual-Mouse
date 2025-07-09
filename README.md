@@ -45,21 +45,22 @@ A Python-based system that uses **computer vision** and **hand gesture recogniti
 ## 🎥 Demo
 
 1. Left Click
+   
    ![Left Click](https://github.com/user-attachments/assets/d34a7e85-9f69-42e4-b2f4-2676d99bbf68)
 
-2. Right Click
+3. Right Click
    ![Right Click](https://github.com/user-attachments/assets/3b42b5f4-9832-4beb-8ae4-4aa545e231a2)
 
-3. Scroll Up
+4. Scroll Up
    ![Scroll Up](https://github.com/user-attachments/assets/f036a372-ad0a-49d7-b208-ed45cd5fbb68)
    
-4. Scroll Down
+5. Scroll Down
    ![Scroll Down](https://github.com/user-attachments/assets/b7058535-dd4a-49cf-b302-d2a10c789174)
 
-5. Volume Decrease
+6. Volume Decrease
    ![Volume Decrease](https://github.com/user-attachments/assets/8969d672-e750-4191-a35d-774a2b702fdd)
 
-6. Volume Increase
+7. Volume Increase
    ![Volume Increase](https://github.com/user-attachments/assets/90109099-748c-4d3c-b318-b8a0be954ed9)
 
 ---
