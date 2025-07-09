@@ -162,14 +162,6 @@ This project is for educational and research purposes. Feel free to fork and con
 
 ---
 
-## 🙌 Acknowledgements
-
-  -> MediaPipe by Google
-  -> OpenCV
-  -> pycaw documentation
-
----
-
 ## 🙋‍♀️ About Me
 
 **Kirti Jeswani**  
