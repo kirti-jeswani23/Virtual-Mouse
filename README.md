@@ -98,15 +98,15 @@ Libraries Used:
 
 ## Gesture Mapping:
 
-| Gesture                             | Action                                              |
-|-------------------------------------|-----------------------------------------------------|
-| Index Finger Up                     | Mouse Movement                                      |
-| Index + Middle Finger Up            | Right Button Click                                  |
-| Index, Middle, Little Finger Up     | Left Button Click                                   |
-| Thumb, Index, Middle, Little Up     | Scroll Up Function                                  |
-| Thumb, Index, Middle Up             | Scroll Down Function                                |
-| No Tip Detected                     | No Action Performed                                 |
-| Thumb + Index Pinch (distance)      | Volume Control based on Finger Distance             |
+| Gesture                                | Action                                              |
+|----------------------------------------|-----------------------------------------------------|
+| Index Finger Up                        | Mouse Movement                                      |
+| Index, Middle Finger Up                | Right Button Click                                  |
+| Index, Middle, Little Finger Up        | Left Button Click                                   |
+| Thumb, Index, Middle, Little Finger Up | Scroll Up Function                                  |
+| Thumb, Index, Middle Finger Up         | Scroll Down Function                                |
+| No Tip Detected                        | No Action Performed                                 |
+| Thumb, Index Finger Pinch (distance)   | Volume Control based on Finger Distance             |
 
 ---
 
