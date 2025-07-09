@@ -172,15 +172,16 @@ This project is for educational and research purposes. Feel free to fork and con
 
 ## 🙋‍♀️ About Me
 
-**Kirti Jeswani**
-  Data Analyst | Data Engineer
-  🔗 [LinkedIn](https://www.linkedin.com/in/kirti-jeswani/) 
-  📧 kirti.jeswani23@gmail.com
+**Kirti Jeswani**  
+Data Analyst | Data Engineer  
+🔗 [LinkedIn](https://www.linkedin.com/in/kirti-jeswani/)  
+📧 kirti.jeswani23@gmail.com
 
 ---
 
 ## ⭐ Like This Project?
 
 Star ⭐ this repo and connect with me on LinkedIn. Feedback and contributions are always welcome!
+
 
 
