@@ -160,9 +160,24 @@ Libraries Used:
 ## 📄 License
 This project is for educational and research purposes. Feel free to fork and contribute.
 
+---
+
 ## 🙌 Acknowledgements
   -> MediaPipe by Google
   -> OpenCV
   -> pycaw documentation
+
+---
+
+## 🙋‍♀️ About Me
+Kirti Jeswani
+Data Analyst | Data Engineer
+🔗 LinkedIn
+📧 kirti.jeswani23@gmail.com
+
+---
+
+## ⭐ Like This Project?
+Star ⭐ this repo and connect with me on LinkedIn. Feedback and contributions are always welcome!
 
 
