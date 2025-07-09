@@ -170,9 +170,10 @@ This project is for educational and research purposes. Feel free to fork and con
 ---
 
 ## 🙋‍♀️ About Me
-Kirti Jeswani
+
+**Kirti Jeswani**
 Data Analyst | Data Engineer
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/kirti-jeswani/) 
 📧 kirti.jeswani23@gmail.com
 
 ---
