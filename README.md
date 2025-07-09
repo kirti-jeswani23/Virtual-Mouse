@@ -64,11 +64,12 @@ A Python-based system that uses **computer vision** and **hand gesture recogniti
 3. **Ensure Webcam Access**
    Change camera index to 0 or 1 in .py files if needed
 
-   🧑‍💻 How to Use
+## 🧑‍💻 How to Use
+
 ➤ Virtual Mouse
    ```bash
     python AI_mouse.py
-
+```
 ➤ Volume Control
 ```bash
     python volume_control.py
@@ -79,7 +80,8 @@ A Python-based system that uses **computer vision** and **hand gesture recogniti
 ```
 ✨ Tip: If webcam doesn’t open, try changing cv2.VideoCapture(1) to cv2.VideoCapture(0)
 
-🧠 Technical Overview
+## 🧠 Technical Overview
+
 Libraries Used:
 -> OpenCV – for image processing and camera handling
 -> MediaPipe – for hand landmark detection
@@ -88,7 +90,8 @@ Libraries Used:
 -> Pycaw – to manage system volume
 -> Comtypes – support for Windows COM library
 
-Gesture Mapping:
+## Gesture Mapping:
+
 | Gesture                             | Action                                              |
 |-------------------------------------|-----------------------------------------------------|
 | Index Finger Up                     | Mouse Movement                                      |
@@ -99,7 +102,8 @@ Gesture Mapping:
 | No Tip Detected                     | No Action Performed                                 |
 | Thumb + Index Pinch (distance)      | Volume Control based on Finger Distance             |
 
-📊 Accuracy & Testing
+## 📊 Accuracy & Testing
+
 | Gesture         | Accuracy |
 | --------------- | -------- |
 | Cursor Movement | 100%     |
@@ -107,17 +111,18 @@ Gesture Mapping:
 | Right Click     | 98%      |
 | Scroll Up/Down  | 100%     |
 
-Lighting Test Accuracy
+## Lighting Test Accuracy
+
 | Lighting Condition | Accuracy |
 | ------------------ | -------- |
 | Daylight           | 93%      |
 | Dim Light          | 70%      |
 | Night Light        | 40%      |
 
-📄 License
+## 📄 License
 This project is for educational and research purposes. Feel free to fork and contribute.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
   -> MediaPipe by Google
   -> OpenCV
   -> pycaw documentation
