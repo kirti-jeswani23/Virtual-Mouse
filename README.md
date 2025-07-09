@@ -64,6 +64,8 @@ A Python-based system that uses **computer vision** and **hand gesture recogniti
 3. **Ensure Webcam Access**
    Change camera index to 0 or 1 in .py files if needed
 
+---
+
 ## 🧑‍💻 How to Use
 
 ➤ Virtual Mouse
@@ -80,6 +82,8 @@ A Python-based system that uses **computer vision** and **hand gesture recogniti
 ```
 ✨ Tip: If webcam doesn’t open, try changing cv2.VideoCapture(1) to cv2.VideoCapture(0)
 
+---
+
 ## 🧠 Technical Overview
 
 Libraries Used:
@@ -89,6 +93,8 @@ Libraries Used:
 -> Autopy – to control mouse cursor
 -> Pycaw – to manage system volume
 -> Comtypes – support for Windows COM library
+
+---
 
 ## Gesture Mapping:
 
@@ -102,6 +108,8 @@ Libraries Used:
 | No Tip Detected                     | No Action Performed                                 |
 | Thumb + Index Pinch (distance)      | Volume Control based on Finger Distance             |
 
+---
+
 ## 📊 Accuracy & Testing
 
 | Gesture         | Accuracy |
@@ -111,6 +119,8 @@ Libraries Used:
 | Right Click     | 98%      |
 | Scroll Up/Down  | 100%     |
 
+---
+
 ## Lighting Test Accuracy
 
 | Lighting Condition | Accuracy |
@@ -118,6 +128,8 @@ Libraries Used:
 | Daylight           | 93%      |
 | Dim Light          | 70%      |
 | Night Light        | 40%      |
+
+---
 
 ## 📄 License
 This project is for educational and research purposes. Feel free to fork and contribute.
